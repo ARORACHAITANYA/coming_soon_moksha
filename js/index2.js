@@ -4,7 +4,7 @@ TweenMax.from(".preheader", 1, {opacity: 0, x: -30, delay: 0.2});
 TweenMax.from(".paragraph", 1, {opacity: 0, delay: 1, y: 20});
 TweenMax.staggerFrom(".btn", 0.5, {y: 10, opacity: 0, delay: 1.6}, 0.4);  
 
-var goalDay = '2018/04/06 00:00:00'
+var goalDay = '2018/03/14 10:00:00'
 
    var timerId = 0;
    timerId = setInterval(function() {

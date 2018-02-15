@@ -5,7 +5,7 @@
 .banner .top_header nav>a,.banner .top_header ul{margin-top:0.4em}
 .banner .intro{top:32%}
 .banner .intro h1{font-size:1.6em}
-.banner .intro h1 img{width:00px}
+.banner .intro h1 img{width:300px}
 .banner .intro p{font-size:1.5em}
 .banner .overlay3{
 	display: none;
@@ -155,7 +155,7 @@ body{
 .banner .intro{position:absolute;top:8%;left:0;right:0;color:#fff;text-align:center}
 .banner .intro h1,.banner .intro p{font-size:2.5em;font-weight:500}
 .banner .intro p{margin-top:-0.4em}
-.banner .intro h1 .designer{display:inline-block;width:350px;min-width:23%;max-width:80%;max-height:30%;margin-top:0.0em}
+.banner .intro h1 .designer{display:inline-block;width:550px;min-width:70%;max-width:80%;max-height:90%;margin-top:0.0em}
 
 .appstore-logo{
   display:none
